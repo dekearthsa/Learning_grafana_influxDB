@@ -1,0 +1,28 @@
+{
+    "taceId": "123",
+    "uptime": 16754935665,
+    "msgType": "real",
+    "msgEncrpt": "none",
+    "apTime": 167949340,
+    "msgDirct": "report",
+    "msgId": 0,
+    "msgParam":{
+        "subCmd": "report",
+        "dataEncrpt": "none",
+        "subType": "uploadData",
+        "apUid": "ffff3da",
+        "msUid": "4f03848a",
+        "value": 30
+    },
+    "localtion":{
+        "building": "A",
+        "floor": "15"
+    },
+    "apUid":"ffff3da",
+    "msgUid": "ffff3da",
+    "msgPriority": "normal",
+    "msgCmd": "ms",
+    "deviceName": "aiq",
+    "deviceAlias": "4F03848A",
+    "deviceaddr": "Bangkok 1020, Thailand"
+}
